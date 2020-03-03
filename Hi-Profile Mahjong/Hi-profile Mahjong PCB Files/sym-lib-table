@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name K-Type)(type Legacy)(uri ${KTYPE}/K-Type.lib)(options "")(descr ""))
+)
